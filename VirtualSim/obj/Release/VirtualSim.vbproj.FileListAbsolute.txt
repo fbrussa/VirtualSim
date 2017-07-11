@@ -1,0 +1,10 @@
+H:\VSS\Otros\VirtualSim\VirtualSim\bin\Release\VirtualSim.exe.config
+H:\VSS\Otros\VirtualSim\VirtualSim\bin\Release\VirtualSim.exe
+H:\VSS\Otros\VirtualSim\VirtualSim\bin\Release\VirtualSim.pdb
+H:\VSS\Otros\VirtualSim\VirtualSim\bin\Release\VirtualSim.xml
+H:\VSS\Otros\VirtualSim\VirtualSim\obj\Release\VirtualSim.MainForm.resources
+H:\VSS\Otros\VirtualSim\VirtualSim\obj\Release\VirtualSim.Resources.resources
+H:\VSS\Otros\VirtualSim\VirtualSim\obj\Release\VirtualSim.vbproj.GenerateResource.Cache
+H:\VSS\Otros\VirtualSim\VirtualSim\obj\Release\VirtualSim.exe
+H:\VSS\Otros\VirtualSim\VirtualSim\obj\Release\VirtualSim.xml
+H:\VSS\Otros\VirtualSim\VirtualSim\obj\Release\VirtualSim.pdb

@@ -1,0 +1,20 @@
+C:\Users\fbrus_000\AppData\Local\Temporary Projects\VirtualSim\bin\Debug\VirtualSim.exe.config
+C:\Users\fbrus_000\AppData\Local\Temporary Projects\VirtualSim\bin\Debug\VirtualSim.exe
+C:\Users\fbrus_000\AppData\Local\Temporary Projects\VirtualSim\bin\Debug\VirtualSim.pdb
+C:\Users\fbrus_000\AppData\Local\Temporary Projects\VirtualSim\bin\Debug\VirtualSim.xml
+C:\Users\fbrus_000\AppData\Local\Temporary Projects\VirtualSim\obj\Debug\VirtualSim.MainForm.resources
+C:\Users\fbrus_000\AppData\Local\Temporary Projects\VirtualSim\obj\Debug\VirtualSim.Resources.resources
+C:\Users\fbrus_000\AppData\Local\Temporary Projects\VirtualSim\obj\Debug\VirtualSim.vbproj.GenerateResource.Cache
+C:\Users\fbrus_000\AppData\Local\Temporary Projects\VirtualSim\obj\Debug\VirtualSim.exe
+C:\Users\fbrus_000\AppData\Local\Temporary Projects\VirtualSim\obj\Debug\VirtualSim.xml
+C:\Users\fbrus_000\AppData\Local\Temporary Projects\VirtualSim\obj\Debug\VirtualSim.pdb
+H:\VSS\Otros\VirtualSim\VirtualSim\bin\Debug\VirtualSim.exe.config
+H:\VSS\Otros\VirtualSim\VirtualSim\bin\Debug\VirtualSim.exe
+H:\VSS\Otros\VirtualSim\VirtualSim\bin\Debug\VirtualSim.pdb
+H:\VSS\Otros\VirtualSim\VirtualSim\bin\Debug\VirtualSim.xml
+H:\VSS\Otros\VirtualSim\VirtualSim\obj\Debug\VirtualSim.MainForm.resources
+H:\VSS\Otros\VirtualSim\VirtualSim\obj\Debug\VirtualSim.Resources.resources
+H:\VSS\Otros\VirtualSim\VirtualSim\obj\Debug\VirtualSim.vbproj.GenerateResource.Cache
+H:\VSS\Otros\VirtualSim\VirtualSim\obj\Debug\VirtualSim.exe
+H:\VSS\Otros\VirtualSim\VirtualSim\obj\Debug\VirtualSim.xml
+H:\VSS\Otros\VirtualSim\VirtualSim\obj\Debug\VirtualSim.pdb
